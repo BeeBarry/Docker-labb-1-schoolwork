@@ -11,6 +11,10 @@ I slutet av dagen klickar du på "Munch" knappen som matar monstret och rensar d
 2. Öppna projektet i din IDE eller cd:a till projektet via terminalen.
 2. Kör ```docker-compose up -d``` i din terminal.
 3. Appen körs nu: http://localhost:5555
+4. Öppna nu Frontend mappen i en annan (eller samma) IDE.
+5. Kör ``npm install`` och sedan ```npm run dev```
+6. Frontend körs nu och är tillgänglig på http://localhost:5137
+
 
 ##### Techstack
 
