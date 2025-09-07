@@ -35,7 +35,7 @@ function TodoForm({ onAddTodo }) {
                     type="submit"
                     className="w-full px-4 py-3 bg-green-300 text-black rounded-xl hover:bg-green-400 focus:outline-none focus:ring-3 focus:ring-green-200 font-semibold shadow-md transition-all duration-200"
                 >
-                    Add task
+                    Feed me!
                 </button>
             </div>
         </form>

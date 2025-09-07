@@ -23,7 +23,7 @@ function TodoItem({ todo, onToggle, onDelete }) {
         onClick={onDelete}
         className="px-3 py-1.5 text-red-500 hover:bg-red-100 rounded-lg text-sm font-medium transition-colors"
       >
-        Delete
+        Munch!
       </button>
     </div>
   );
